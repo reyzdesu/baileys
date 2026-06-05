@@ -35,7 +35,6 @@ shell
 .gitignore
 .prettierignore
 .prettierrc.json
-LICENSE
 .bin
 .env
 .env.local
