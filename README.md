@@ -36,7 +36,7 @@ npm install vialeys
 Use the edge version (no guarantee of stability, but latest fixes + features)
 
 ```
-npm install github:ramadanny/vialeys
+npm install github:reyzdesu/baileys
 ```
 
 Then import your code using:
